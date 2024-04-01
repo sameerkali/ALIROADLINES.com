@@ -691,8 +691,8 @@
     /* footer section styling */
     
     footer {
-        background: linear-gradient(-75deg, #5e575b, #000000, #3a1741);
-        /* background: #000000; */
+        /* background: linear-gradient(-75deg, #5e575b, #000000, #3a1741); */
+        background: #000000;
         padding: 15px 23px;
         color: #fff;
         text-align: center;
